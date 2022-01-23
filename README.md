@@ -1,11 +1,13 @@
-### Hi, I'm Lena <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">  <img src="https://komarev.com/ghpvc/?username=lenaratushna&label=Profile%20views&color=84cbfa&style=flat" alt="lenaratushna" align="right" />
-<img src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif" width="300px" />  
+<img src="https://komarev.com/ghpvc/?username=lenaratushna&label=Profile%20views&color=84cbfa&style=flat" alt="lenaratushna" align="right" />
+<img src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif" width="250px" />  
 
 -----
-
-- 👩‍💻 A curiosity-driven Junior Frontend Developer.
-- ✨😊 I'm happiest when I'm creating, learning, exploring and thinking about how to make things better.
-
+### Hi, I'm Lena 🖤  
+<samp>
+   👩‍💻 A curiosity-driven Junior Frontend Developer. <br/>
+   ✔️ Worked as a QA Engineer for 2.5 years  <br/>
+   ✨😊 Happiest when I'm creating, learning, exploring and thinking about how to make things better. <br/>
+</samp>
 <h3 align="left">Languages and tools that I use:</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
