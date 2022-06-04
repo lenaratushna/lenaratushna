@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=lenaratushna&label=Profile%20views&color=84cbfa&style=flat" alt="lenaratushna" align="right" />
-<img src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif" width="250px" />  
-</div>
-
 -----
 ### Hi, I'm Lena 🖤  
 <samp>
